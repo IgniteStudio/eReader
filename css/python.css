@@ -1,0 +1,70 @@
+body {
+	background-image: url('../img/py2.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	color: royalblue;
+    text-shadow: 2px 2px .25px darkblue;
+	font-family: papyrus;
+	font-size: 18px;
+	font-weight: bold;
+	color: salmon;
+}
+
+a {
+	color: #ccffdc;
+	margin: 60px;
+	font-size: 25px;
+	text-decoration: none;
+}
+
+
+a:hover {
+	color: yellow;
+	
+}
+
+ul {
+	text-align: center;
+}
+
+ul li {
+	display: block;
+	font-size: 20px;
+	text-align: center;
+}
+
+footer {
+	color: #006600;
+	text-shadow: none;
+}
+
+.fixednav {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index:9999;
+	width: 100%;
+	height: 50px;
+	
+}
+
+.des {
+	
+	
+	font-family: papyrus;
+	color: yellow;
+	text-align: center;
+	text-shadow: 2px 2px .25px grey;
+	font-style: italic;
+	font-size:26px;
+	margin: 60px;
+	padding: 20px;
+	line-height: 2.5em;
+	
+}
+
+#h1 {
+	font-size: 100px;
+	color: #0099cc;
+}

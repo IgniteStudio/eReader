@@ -1,0 +1,33 @@
+body {
+	background-image: url('../img/cpu2.jpg');
+	background-repeat: repeat;
+	background-size: cover;
+	text-align: center;
+	color: royalblue;
+    text-shadow: 2px 2px .25px blue;
+	font-family: papyrus;
+	font-size: 25px;
+	font-weight: bold;
+	color: #66ffff;
+}
+
+a {
+	color: #66ffff;
+	text-shadow: 2px 2px .25px blue;
+	text-decoration: none;
+	margin: 20px;
+}
+
+a:hover {
+	color: #0099ff;
+}
+
+.fixednav {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index:9999;
+	width: 100%;
+	height: 50px;
+	
+}

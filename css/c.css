@@ -1,0 +1,62 @@
+body {
+	background-image: url('../img/cpu.jpg');
+	background-repeat: repeat;
+	background-size: cover;
+	text-align: center;
+	color: royalblue;
+    text-shadow: 2px 2px .25px darkblue;
+	font-family: papyrus;
+	font-size: 18px;
+	font-weight: bold;
+	color: salmon;
+}
+
+
+a {
+	color: #66ffff;
+	text-shadow: 2px 2px .25px black;
+	text-decoration: none;
+	margin: 30px;
+}
+
+a:hover {
+	color: #00cc66;
+}
+
+footer {
+	color: #006600;
+	text-shadow: none;
+}
+
+.fixednav {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index:9999;
+	width: 100%;
+	height: 50px;
+	
+}
+
+.des {
+	
+	font-family: monospace;
+	color: orange;
+	text-align: center;
+	text-shadow: 2px 2px .25px grey;
+	font-style: italic;
+	font-size:90%;
+	margin: 60px;
+	padding: 20px;
+	line-height: 2.5em;
+	float: bottom;
+}	
+
+
+#h1 {
+	font-size: 75px;
+	color: seagreen;
+	text-shadow: 2px 2px .25px #99ffcc;
+	text-align: right;
+	margin-right: 260px;
+}
